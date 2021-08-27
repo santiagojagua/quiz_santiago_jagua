@@ -8,3 +8,4 @@ E:\programas u\paradigmas\home\home\obj\Debug\home.csproj.GenerateResource.cache
 E:\programas u\paradigmas\home\home\obj\Debug\home.csproj.CoreCompileInputs.cache
 E:\programas u\paradigmas\home\home\obj\Debug\home.exe
 E:\programas u\paradigmas\home\home\obj\Debug\home.pdb
+E:\programas u\paradigmas\home\home\obj\Debug\home.Report.resources
